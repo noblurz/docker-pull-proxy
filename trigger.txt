@@ -1,1 +1,1 @@
-xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/docker_noblurz/alist:latest
+onething1/wxedge:latest registry.cn-hangzhou.aliyuncs.com/docker_noblurz/wxedge:latest
