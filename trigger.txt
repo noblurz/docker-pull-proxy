@@ -1,1 +1,1 @@
-romaincin/tinymediamanager:latest registry.cn-hangzhou.aliyuncs.com/docker_noblurz/tinymediamanager:latest
+romancin/tinymediamanager:latest registry.cn-hangzhou.aliyuncs.com/docker_noblurz/tinymediamanager:latest
