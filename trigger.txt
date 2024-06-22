@@ -1,1 +1,1 @@
-onething1/wxedge:latest registry.cn-hangzhou.aliyuncs.com/docker_noblurz/wxedge:latest
+romaincin/tinymediamanager:latest registry.cn-hangzhou.aliyuncs.com/docker_noblurz/tinymediamanager:latest
